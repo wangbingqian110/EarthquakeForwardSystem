@@ -1,0 +1,19 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Algorithm, Version=0.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class AlgorithmNameSpace.Algorithm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32, Int32, Single**): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32, Int32, Int32, Int32, Int32, Single**): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Single** Record : Public
+  Methods:
+    DOperator(Int32, Single*): PrivateScope, Public, HideBySig
+    finiteDif(Single*, Single**, Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    A(Int32, Int32, Single, Int32, Int32): PrivateScope, Public, HideBySig
+    source(Single, Single, Int32, Int32, Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    Calculate(): PrivateScope, Public, HideBySig
+    Calculate(String, String, String): PrivateScope, Public, HideBySig

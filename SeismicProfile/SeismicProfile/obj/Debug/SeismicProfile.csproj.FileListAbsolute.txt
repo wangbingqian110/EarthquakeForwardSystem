@@ -1,0 +1,8 @@
+D:\project\EarthquakeForwardSystem\SeismicProfile\SeismicProfile\bin\Debug\SeismicProfile.dll
+D:\project\EarthquakeForwardSystem\SeismicProfile\SeismicProfile\bin\Debug\SeismicProfile.pdb
+D:\project\EarthquakeForwardSystem\SeismicProfile\SeismicProfile\bin\Debug\ZedGraph.dll
+D:\project\EarthquakeForwardSystem\SeismicProfile\SeismicProfile\obj\Debug\SeismicProfile.csprojResolveAssemblyReference.cache
+D:\project\EarthquakeForwardSystem\SeismicProfile\SeismicProfile\obj\Debug\SeismicProfile.csproj.CoreCompileInputs.cache
+D:\project\EarthquakeForwardSystem\SeismicProfile\SeismicProfile\obj\Debug\SeismicProfile.csproj.CopyComplete
+D:\project\EarthquakeForwardSystem\SeismicProfile\SeismicProfile\obj\Debug\SeismicProfile.dll
+D:\project\EarthquakeForwardSystem\SeismicProfile\SeismicProfile\obj\Debug\SeismicProfile.pdb

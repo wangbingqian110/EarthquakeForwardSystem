@@ -1,0 +1,16 @@
+D:\project\EarthquakeForwardSystem\EFS\EFS\bin\Debug\EFS.exe
+D:\project\EarthquakeForwardSystem\EFS\EFS\bin\Debug\EFS.pdb
+D:\project\EarthquakeForwardSystem\EFS\EFS\bin\Debug\ZedGraph.dll
+D:\project\EarthquakeForwardSystem\EFS\EFS\obj\Debug\EFS.CreateRockFormation.resources
+D:\project\EarthquakeForwardSystem\EFS\EFS\obj\Debug\EFS.GridSeting.resources
+D:\project\EarthquakeForwardSystem\EFS\EFS\obj\Debug\EFS.MainForm.resources
+D:\project\EarthquakeForwardSystem\EFS\EFS\obj\Debug\EFS.Properties.Resources.resources
+D:\project\EarthquakeForwardSystem\EFS\EFS\obj\Debug\EFS.csproj.GenerateResource.cache
+D:\project\EarthquakeForwardSystem\EFS\EFS\obj\Debug\EFS.csproj.CoreCompileInputs.cache
+D:\project\EarthquakeForwardSystem\EFS\EFS\obj\Debug\EFS.csproj.CopyComplete
+D:\project\EarthquakeForwardSystem\EFS\EFS\obj\Debug\EFS.exe
+D:\project\EarthquakeForwardSystem\EFS\EFS\obj\Debug\EFS.pdb
+D:\project\EarthquakeForwardSystem\EFS\EFS\obj\Debug\EFS.csprojResolveAssemblyReference.cache
+D:\project\EarthquakeForwardSystem\EFS\EFS\bin\Debug\EFS.exe.config
+D:\project\EarthquakeForwardSystem\EFS\EFS\bin\Debug\Algorithm.dll
+D:\project\EarthquakeForwardSystem\EFS\EFS\bin\Debug\Algorithm.pdb

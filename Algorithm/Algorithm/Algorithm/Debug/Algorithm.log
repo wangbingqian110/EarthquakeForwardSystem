@@ -1,0 +1,33 @@
+﻿  Main.cpp
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(80): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(81): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(84): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(86): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(87): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(91): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(92): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(93): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(94): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(95): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(98): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(99): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(100): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(101): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(102): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(103): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(137): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(147): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(251): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(263): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(272): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(234): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(235): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(236): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(381): warning C4305: “=”: 从“double”到“float”截断
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(393): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\project\earthquakeforwardsystem\algorithm\algorithm\algorithm\main.cpp(402): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Algorithm.vcxproj -> D:\project\EarthquakeForwardSystem\Algorithm\Algorithm\Debug\Algorithm.dll
